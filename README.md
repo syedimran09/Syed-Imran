@@ -1,10 +1,24 @@
-# SyedImran
-🎓 ECE Student | 💻 Web Developer | 🎨 UI/UX Designer | 🌱 IoT Enthusiast
+# 👋 Hi there, I'm Syed Imran
 
-I’m passionate about building responsive web apps and smart IoT solutions. Skilled in React.js, Tailwind CSS, JavaScript, Java, Python, and Arduino. I enjoy solving real-world problems through code and design. Currently exploring full-stack development and embedded systems.
+🎓 Electronics & Communication Engineering student  
+💻 Web Developer | 🎨 UI/UX Designer | 🌿 IoT Enthusiast  
 
-📌 Featured Projects: Smart Agriculture (LoRa), GPS Vehicle Tracking, Interactive Login Pages, Figma UI Designs.
+I'm passionate about creating user-friendly web interfaces and smart IoT solutions.  
+I work with technologies like **React.js, Tailwind CSS, JavaScript, Arduino, Python, and Figma**.
 
-🔧 Tools I use: VS Code | Git & GitHub | Figma | MATLAB | MySQL
+## 🔧 Skills
+- **Languages:** JavaScript, Python, Java, C
+- **Web:** HTML, CSS, React.js, Tailwind
+- **Tools:** Git, GitHub, VS Code, Figma, MATLAB
+- **IoT:** Arduino, LoRa, Sensors
 
-Let's collaborate on open-source or tech-for-good projects!
+## 📌 Featured Projects
+- **Smart Agriculture (LoRa-based)** – Improved crop yield & resource efficiency  
+- **Vehicle Tracking System** – Real-time GPS tracking via GSM  
+- **Interactive Login Pages** – Clean UI with validation logic  
+- **Figma Portfolio** – UI/UX skills showcase  
+
+📫 Let's connect:  
+[LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/syedimran1293)
+
+---
