@@ -4,7 +4,7 @@
 💻 Web Developer | 🎨 UI/UX Designer | 🌿 IoT Enthusiast  
 
 I'm passionate about creating user-friendly web interfaces and smart IoT solutions.  
-I work with technologies like **React.js, Tailwind CSS, JavaScript, Arduino, Python, and Figma**.
+I work with technologies like **React.js, Tailwind CSS, JavaScript, Arduino, Java, Python, and Figma**.
 
 ## 🔧 Skills
 - **Languages:** JavaScript, Python, Java, C
@@ -14,7 +14,8 @@ I work with technologies like **React.js, Tailwind CSS, JavaScript, Arduino, Pyt
 
 ## 📌 Featured Projects
 - **Smart Agriculture (LoRa-based)** – Improved crop yield & resource efficiency  
-- **Vehicle Tracking System** – Real-time GPS tracking via GSM  
+- **Vehicle Tracking System** – Real-time GPS tracking via GSM
+- **3D Self-Portfolio** - A self introduction page that showcase all essentials
 - **Interactive Login Pages** – Clean UI with validation logic  
 - **Figma Portfolio** – UI/UX skills showcase  
 
