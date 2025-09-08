@@ -4,7 +4,7 @@
 💻 Web Developer | 🎨 UI/UX Designer | 🌿 IoT Enthusiast  
 
 I'm passionate about creating user-friendly web interfaces and smart IoT solutions.  
-I work with technologies like **React.js, Tailwind CSS, JavaScript, Arduino, Java, Python, and Figma**.
+I work with technologies like **Java, Python, JavaScript**.
 
 ## 🔧 Skills
 - **Languages:** JavaScript, Python, Java, C, MySQL
