@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Syed Imran
 
 🎓 Electronics & Communication Engineering student  
-💻 Web Developer | 🎨 UI/UX Designer | 🌿 IoT Enthusiast  
+💻 Web Developer | Software Engineer | 🌿 IoT Enthusiast  
 
-I'm passionate about creating user-friendly web interfaces and smart IoT solutions.  
+I'm passionate about creating user-friendly web sites and smart IoT solutions.  
 I work with technologies like **Java, Python, JavaScript**.
 
 ## 🔧 Skills
