@@ -7,8 +7,8 @@ I'm passionate about creating user-friendly web interfaces and smart IoT solutio
 I work with technologies like **React.js, Tailwind CSS, JavaScript, Arduino, Java, Python, and Figma**.
 
 ## 🔧 Skills
-- **Languages:** JavaScript, Python, Java, C
-- **Web:** HTML, CSS, React.js, Tailwind
+- **Languages:** JavaScript, Python, Java, C, MySQL
+- **Web:** HTML, CSS, React.js, NodeJs, Tailwind
 - **Tools:** Git, GitHub, VS Code, Figma, MATLAB
 - **IoT:** Arduino, LoRa, Sensors
 
